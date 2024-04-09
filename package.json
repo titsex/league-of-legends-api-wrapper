@@ -5,9 +5,9 @@
     "version": "0.0.4",
     "license": "MIT",
     "homepage": "https://github.com/titsex/league-of-legends-api-wrapper#readme",
-    "main": "./dist/index.js",
-    "types": "./dist/index.d.ts",
-    "exports": "./dist/index.js",
+    "main": "./dist/index.mjs",
+    "types": "./dist/index.d.mts",
+    "exports": "./dist/index.mjs",
     "keywords": [
         "riot",
         "games",
