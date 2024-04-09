@@ -2,7 +2,7 @@
     "name": "league-of-legends-api-wrapper",
     "description": "Lightweight wrapper on the league of legends api",
     "author": "titsex",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "license": "MIT",
     "homepage": "https://github.com/titsex/league-of-legends-api-wrapper#readme",
     "main": "./dist/index.js",
